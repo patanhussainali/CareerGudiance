@@ -6,8 +6,6 @@ The platform uses Generative Artificial Intelligence to analyze user profiles, r
 
 🌐 **Live Demo:** https://inspirzy.vercel.app
 
-📂 **GitHub Repository:** https://github.com/saidurga144/CareerGudiance
-
 ---
 
 ## ✨ Key Features
