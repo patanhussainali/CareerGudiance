@@ -4,8 +4,6 @@
 
 The platform uses Generative Artificial Intelligence to analyze user profiles, recommend personalized career paths, extract skills from resumes, and generate step-by-step career development roadmaps.
 
-🌐 **Live Demo:** https://inspirzy.vercel.app
-
 ---
 
 ## ✨ Key Features
